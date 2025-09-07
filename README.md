@@ -18,14 +18,15 @@ This is a mini Python project that calculates the percentage of GC Content 🧬
    ```bash
    git clone https://github.com/nawaf-alharthi/gc-content-calculator.git
    cd gc-content-calculator
-   ``` 
-   2. Install the requirements:
+   ```
+
+2. Install the requirements:
    ```bash
    pip install -r requirements.txt
    ```
-   3. Run the app : 
-   ```bash
-    streamlit run GC_Content.py
-    ``` 
 
-   
+3. Run the app:
+   ```bash
+   streamlit run GC_Content.py
+   ```
+
