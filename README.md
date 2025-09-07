@@ -25,7 +25,7 @@ This is a mini Python project that calculates the percentage of GC Content 🧬
    ```
    3. Run the app : 
    ```bash
-    streamlit run content_calculator.py
+    streamlit run GC_Content.py
     ``` 
 
    
